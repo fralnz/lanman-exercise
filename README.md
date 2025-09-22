@@ -10,7 +10,7 @@ If you have **node.js** [installed](https://nodejs.org/en/download) on your syst
 node main.js
 ```
 
-Or, alternatively, you can open the `index.html` file in the browser in the browser, either by running it locally or going to the GitHub Page.
+Or, alternatively, you can open the `index.html` file in the browser in the browser, either by running it locally or going to the [GitHub Page](https://fralnz.com/lanman-exercise/).
 
 ## Explaining the code
 
@@ -85,7 +85,7 @@ class Receipt {
     }
 ```
 
-**Example**: try to paste this in the browser console with the webpage open:
+**Example**: try to paste this in the browser console with the [webpage](https://fralnz.com/lanman-exercise/) open:
 
 ```js
 const badCart = new Receipt([ new Good(0, "", -5) ]);
